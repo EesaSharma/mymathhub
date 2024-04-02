@@ -1,0 +1,118 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.container {
+    width: 90%; /* Adjust container width for mobile */
+    margin: 0 auto;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.navbar .container {
+    display: flex;
+    flex-direction: column; /* Change to column layout for mobile */
+}
+
+.navbar .logo {
+    text-align: center; /* Center logo for mobile */
+    margin-bottom: 20px; /* Add margin below logo */
+}
+
+.navbar .logo a {
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* Center navigation links for mobile */
+    flex-wrap: wrap; /* Wrap navigation links for smaller screens */
+}
+
+.nav-links li {
+    margin: 0 10px; /* Adjust margin between navigation links */
+}
+
+.nav-links li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #f8f9fa;
+}
+
+/* Search container */
+.search-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.search-container input[type="text"] {
+    padding: 10px;
+    width: 70%; /* Adjust input width for mobile */
+    max-width: 250px; /* Limit input width for smaller screens */
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 10px; /* Add margin below input */
+}
+
+.search-container button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.search-container button:hover {
+    background-color: #45a049;
+}
+
+/* Add media query for smaller screens */
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .nav-links {
+        flex-direction: column; /* Change to column layout for smaller screens */
+        align-items: center; /* Center navigation links */
+    }
+
+    .nav-links li {
+        margin: 10px 0; /* Adjust margin for smaller screens */
+    }
+
+    .search-container input[type="text"] {
+        width: 100%; /* Adjust input width for smaller screens */
+    }
+
+    .social-buttons {
+        position: relative; /* Change social buttons position to relative */
+        margin-top: 10px; /* Add margin to top */
+        right: auto; /* Reset right position */
+        bottom: auto; /* Reset bottom position */
+        text-align: center; /* Center social buttons */
+    }
+}

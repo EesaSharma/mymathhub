@@ -1,0 +1,22 @@
+1. The word "mathematics" comes from the Greek word "mathema", which means learning, study, science.
+2. Zero is the only number that cannot be represented in Roman numerals.
+3. The number π (pi) is an irrational number, meaning it cannot be expressed as a simple fraction.
+4. The number 1729 is known as the Hardy-Ramanujan number, named after a famous conversation between mathematicians G. H. Hardy and Srinivasa Ramanujan.
+5. The sum of the angles in a triangle is always 180 degrees.
+6. Magic 9 Rule: Adding the digits of a multiple-digit number until you get a single digit always results in 9 for multiples of 9.
+7. Prime Pairing: Prime numbers greater than 2 are always odd.
+8. Golden Ratio: The ratio of consecutive Fibonacci numbers approaches the golden ratio, approximately 1.618.
+9. Pi Day: Pi (π) Day is celebrated on March 14th (3/14) because 3.14 represents the approximate value of π.
+10. Perfect Numbers: A perfect number is a positive integer that is equal to the sum of its proper divisors, such as 6 (1 + 2 + 3).
+11. The Monty Hall Problem: In a probability puzzle, switching doors after a host reveals a goat increases your chance of winning a car.
+12. Fractals: Mathematical patterns that repeat at every scale, such as the Mandelbrot set, exhibit self-similarity.
+13. Tessellations: Repeating patterns of polygons that cover a plane with no gaps or overlaps, like Escher's artwork.
+14. Gaussian Distribution: Many natural phenomena follow a bell-shaped curve known as the normal distribution.
+15. Cardinality of Infinity: The set of real numbers has a greater cardinality than the set of natural numbers.
+16. The Four Color Theorem: Any map can be colored using only four colors without any adjacent countries sharing the same color.
+17. Mobius Strip: A non-orientable surface with only one side and one boundary, formed by twisting a strip of paper and joining the ends.
+18. The Birthday Paradox: In a group of just 23 people, there's a better than even chance that two people have the same birthday.
+19. The Butterfly Effect: A small change can have large consequences, as in chaos theory.
+20. The Beauty of Symmetry: Symmetrical shapes and patterns are aesthetically pleasing and appear frequently in nature.
+21. The Collatz Conjecture: No matter the starting number, repeatedly applying a simple rule will eventually lead to 1.
+22. The Rule of 72: An easy way to estimate how long it takes for money to double at a fixed annual rate, given by 72 divided by the interest rate.
